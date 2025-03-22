@@ -13,3 +13,6 @@ Code reviews
 
 Third Topic (to be decided by team)
 
+
+
+Evan: created repository and initial document is doing half of Task Estimation including half the research and writing.
