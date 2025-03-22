@@ -5,6 +5,17 @@ Task Estimation, firstly lets define before getting into the best practices. Tas
 
 Now that we understand the definition, the goal of this handbook is to outline the best practices and also the practices to avoid in Task Estimation based on personal experience.
 
+In relation to the article [**"Exploring Estimation Approaches: What’s the Right Fit for Scrum Teams"**](https://www.scrum.org/resources/blog/exploring-estimation-approaches-what-right-fit-scrum-teams)
+
+
+Good Practices:
+Adapt Estimation Methods: as the article suggests there is no one size fits all method for Scrum teams and task estimation, teams should experiment and try different estimation methods to see what works best for them. This is an approach that should see teams communicate and agree on a common method like story points overtime if this doesnt work teams can move to another estimation such as time-based or  a mix of both.
+
+Team Estimation: as mentioned in the article, estimation should be a team effort this is crucial for creating a shared goal with a clear understanding. Everybody will have different skill levels and difficulty estimates. Planning Poker is a great solution for this.
+
+
+
+
 
 
 
