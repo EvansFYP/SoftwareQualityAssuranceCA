@@ -1,15 +1,24 @@
 # TaskEstimation
 
-## Evan
 Task Estimation, firstly lets define before getting into the best practices. Task Estimation is the estimation of how much time, effort or any resources are to be put into completing a task in software development. The end goal of course being to help teams estimate how their deadlines and allocate work properly.
+
+## Quick image overview of a Scrum teams process inluding Task Estimation 
+![My Image](https://ik.imagekit.io/upgrad1/abroad-images/imageCompo/images/1625131626573_Scrum_Best_Practices_for_Workflows_06DOAMB1.webp?pr-true)
 
 Now that we understand the definition, the goal of this handbook is to outline the best practices and also the practices to avoid in Task Estimation based on personal experience.
 
-In relation to the article [**"Exploring Estimation Approaches: What’s the Right Fit for Scrum Teams"**](https://www.scrum.org/resources/blog/exploring-estimation-approaches-what-right-fit-scrum-teams)
+In relation to the article and blogs below we will identify common themes that are relevant to many professionals experiences with Scrum Task Estimation. 
 
+[**"great-scrum-master-tips-best-practices"**](https://www.knowledgehut.com/blog/agile/great-scrum-master-tips-best-practices#Scrum-Best-Practices)
+[**"Tips for Effective Task Estimation in Scrum Planning Meetings"**](https://medium.com/@devedium/tips-for-effective-task-estimation-in-scrum-planning-meetings-c7a6af2c4966)
 
-Good Practices:
-Adapt Estimation Methods: as the article suggests there is no one size fits all method for Scrum teams and task estimation, teams should experiment and try different estimation methods to see what works best for them. This is an approach that should see teams communicate and agree on a common method like story points overtime if this doesnt work teams can move to another estimation such as time-based or  a mix of both.
+Theme: 
+# Team Work
+Team effort is a common theme across all articles and is the foundation of Scrum as a team collaboration framework.
+
+## Good Practices:
+### Adapt Estimation Methods: 
+as many professionals suggest there is no one size fits all method for Scrum teams and task estimation, teams should experiment and try different estimation methods to see what works best for them. This is an approach that should see teams communicate and agree on a common method like story points overtime if this doesnt work teams can move to another estimation such as time-based or  a mix of both.
 
 ### Team Estimation:
  estimation should be a team effort this is crucial for creating a shared goal with a clear understanding. Everybody will have different skill levels and difficulty estimates. Planning Poker and other techniques Shirt Sizing are a great solution for this and suggested by many professionals.
@@ -38,6 +47,27 @@ Having stakeholders around during task estimation meetings can improve the commu
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # megan
 # Bad Practices in Task Estimation 
 # Not using all of the team that is available
@@ -55,6 +85,7 @@ As humans, when we come up with plans or create anything, we don't like to belie
 1. Common Mistakes in Agile Estimation-https://www.cavu.co/common-mistakes-in-agile-estimation/
 2. Story points and estimation https://www.atlassian.com/agile/project-management/estimation
 3. Principles behind the Agile Manifesto https://agilemanifesto.org/iso/en/principles.html
+
 
 
 
