@@ -68,6 +68,56 @@ Having stakeholders around during task estimation meetings can improve the commu
 
 
 
+# megan
+# Bad Practices in Task Estimation 
+# Not using all of the team that is available
+As humans, sometimes we think it is easier to do things by yourself. This is one of the biggest mistakes you can make when it comes to estimation. It is very important to include everyone on your team. The reasoning for this is because everyone on your team will have different levels of experience and different types of skills. So, if you take into consideration everybody's opinion, you may actually get a more accurate estimation. In contrast, if you leave this task to one person, the accuracy is most likely going to be compromised or off, because there is no one there to challenge if the person is factually correct or not.
+# Continuing to use an estimation method when you have evidence that it is not working
+Another sign of bad estimation is if your team is sticking to the same estimation tactic, even though you guys have identified with evidence that this estimation technique is not working. As humans, we like our comfort, and using something that we are familiar with is us being stuck in our comfort zone. To avoid this pitfall, we must keep track of whether something is working or not, and if we have evidence that it is not working, we must not be afraid to take the risk and change it.
+# lack of communication when it comes to changes 
+If you're going to be doing some estimation, at some point you are likely to come across an estimation task that needs some changing. It is bad practice when people decide not to communicate these changes in an efficient manner. The reason for this is because if you don't communicate properly with your team and truly walk them through what the changes are and why they are happening, it can lead to frustration in the team. Not knowing what's going on can cause overwhelm and a lot of confusion. So, the best way to avoid this is to clearly identify with your team when there are going to be changes, why these changes are happening, and when.
+# Not doing tasks step by step and leaving them too large
+Another pitfall is falling into the trap of having tasks that are too large. This can happen because the team has an overwhelmingly big picture and knows exactly what they want to do, but having the task too large can cause problems. It can lead to confusion or frustration if you or one of your teammates doesn't actually understand where to start, or you feel overwhelmed with the task because it's just too much for your brain to process. A way to stop this pitfall from happening is to break tasks down step by step, and even doing them in an iterative fashion can be very beneficial for teammates, as they can focus on one piece of the task at a time.
+
+# Thinking your plan will go perfectly without actually considering any problems or risks
+As humans, when we come up with plans or create anything, we don't like to believe that our idea or plan will ever fail. This is because most humans have pride in their work, and when we create something, sometimes our egos can get in the way and stop us from actually considering the risks that something might go wrong. This is a very dangerous pitfall, and you should really make sure that some people on your team — or at least one person — is allocated to play devil's advocate. This basically means there is one person on the team who, when coming up with the solution, is designed to ask questions and try to make you think about what could go wrong. They will literally start pointing out everything that's wrong with the current plan.
+#  References
+1. Common Mistakes in Agile Estimation-https://www.cavu.co/common-mistakes-in-agile-estimation/
+2. Story points and estimation https://www.atlassian.com/agile/project-management/estimation
+3. Principles behind the Agile Manifesto https://agilemanifesto.org/iso/en/principles.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
