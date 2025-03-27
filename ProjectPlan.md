@@ -14,7 +14,15 @@ Code reviews
 Third Topic (to be decided by team)
 
 
-
+# Task Estimation
 Evan: created repository and initial document is doing half of Task Estimation including half the research and writing.
 
 Megan: researching and writing half the Task Estimation topic.
+
+# Code Review
+
+Martin and Scott working together on research and writing for Code Review.
+
+# Third Topic: possibly Refactoring
+
+to be decided
