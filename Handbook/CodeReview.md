@@ -9,6 +9,14 @@ A code review is the process of going through a snippet of code looking for any 
 > Code review helps developers learn the code base, as well as help them learn new technologies and techniques that grow their skill sets.
 
 ## Best Practices
+It has been very known that for quite some time now that companies, especially IT companies or companies with IT sectors/services use peer code reviews to establish the
+quality and effectiveness of the code written. Whether that means that the code is sent peer to peer or from intern to peer. This has allowed companies to save money and create
+a more sustainable IT infrastructure where the help doesn’t require the need for outsourcing.
+In a study by SmartBear, they reviewed the Cisco programming team, revealing that developers should review no more than 200-400 lines of code. This ensures a roundabout
+for 60 – 90 minutes of code review will yield a staggering 70 – 90% defect discovery. The more given the less defects will be discovered without the proper time allocation for such
+things. This may include bugs, breaches, backdoors or more. The measuring method was LOC(Lines of Code) and with this they were able to determine the rate at which code can
+and should be reviewed.
+![code-review-best-practices-figure-01](https://github.com/user-attachments/assets/36502f6f-8377-4583-864b-3cd0644a0d5d)
 
 ## Challenges 
 
