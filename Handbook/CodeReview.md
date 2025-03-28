@@ -16,7 +16,16 @@ In a study by SmartBear, they reviewed the Cisco programming team, revealing tha
 for 60 – 90 minutes of code review will yield a staggering 70 – 90% defect discovery. The more given the less defects will be discovered without the proper time allocation for such
 things. This may include bugs, breaches, backdoors or more. The measuring method was LOC(Lines of Code) and with this they were able to determine the rate at which code can
 and should be reviewed.
+
+
 ![code-review-best-practices-figure-01](https://github.com/user-attachments/assets/36502f6f-8377-4583-864b-3cd0644a0d5d)
+
+Therefore it has been suggested by experts that inspection of the number of lines of code should not exceed 500! As well as the reviewers of said code should not do so for more than 
+in 60 minute blocks as studies show that perception and concentration plummet after said amount of time! Setting goals and measuring metrics is also a great way of doing code reviews
+as it engages and encourages individuals to fully test said code!
+
+Authors of the code should note down any bugs discovered in the developmental process with the use of comments as well as keeping comments throughout the code, explaining the purpose
+of the technology and why it is being utilized in this fashion!
 
 ## Challenges 
 
