@@ -29,8 +29,23 @@ of the technology and why it is being utilized in this fashion!
 
 ## Challenges 
 
+- Stressful
+Another person searching through your code can feel personal, even when it's not meant to be.
+Some developers worry that their work is being judged, especially if recurring mistakes are pointed out.
+This can create tension unless the team provides supportive feedback. 
+
+- False sense of security 
+Code being approved doesn't mean it's perfect. Code reviews are only as good as the developer reviewing it.
+If an issue slips through the attention of the reviewer, it can lead to bugs or a drop in standards.
+
+- Responsibility
+As the person reviewing code, it's your job to look out for any mistakes or conflicts, 
+this can leave yourself in a position of doubt or concern whether or not you've missed 
+anything yourself whilst reviewing. The responsibility of reviewing can cause immense pressure.
+
 ## Overview
 
 ## References
 [**"What is a code review?"**](https://about.gitlab.com/topics/version-control/what-is-code-review/#conclusion)
 [**"Software Development / Code-Reviews"**](https://www.atlassian.com/agile/software-development/code-reviews)
+[**"Challenges of Code Reviews"**](https://about.gitlab.com/blog/2020/07/03/challenges-of-code-reviews/)
