@@ -16,6 +16,8 @@ In a study by SmartBear, they reviewed the Cisco programming team, revealing tha
 for 60 – 90 minutes of code review will yield a staggering 70 – 90% defect discovery. The more given the less defects will be discovered without the proper time allocation for such
 things. This may include bugs, breaches, backdoors or more. The measuring method was LOC(Lines of Code) and with this they were able to determine the rate at which code can
 and should be reviewed.
+
+
 ![code-review-best-practices-figure-01](https://github.com/user-attachments/assets/36502f6f-8377-4583-864b-3cd0644a0d5d)
 
 Therefore it has been suggested by experts that inspection of the number of lines of code should not exceed 500! As well as the reviewers of said code should not do so for more than 
@@ -27,8 +29,23 @@ of the technology and why it is being utilized in this fashion!
 
 ## Challenges 
 
+- Stressful:
+Another person searching through your code can feel personal, even when it's not meant to be.
+Some developers worry that their work is being judged, especially if recurring mistakes are pointed out.
+This can create tension unless the team provides supportive feedback. 
+
+- False sense of security: 
+Code being approved doesn't mean it's perfect. Code reviews are only as good as the developer reviewing it.
+If an issue slips through the attention of the reviewer, it can lead to bugs or a drop in standards.
+
+- Responsibility:
+As the person reviewing code, it's your job to look out for any mistakes or conflicts, 
+this can leave yourself in a position of doubt or concern whether or not you've missed 
+anything yourself whilst reviewing. The responsibility of reviewing can cause immense pressure.
+
 ## Overview
 
 ## References
 [**"What is a code review?"**](https://about.gitlab.com/topics/version-control/what-is-code-review/#conclusion)
 [**"Software Development / Code-Reviews"**](https://www.atlassian.com/agile/software-development/code-reviews)
+[**"Challenges of Code Reviews"**](https://about.gitlab.com/blog/2020/07/03/challenges-of-code-reviews/)
